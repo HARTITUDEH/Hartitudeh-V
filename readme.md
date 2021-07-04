@@ -1,4 +1,4 @@
-# Jedah's Web Application
+# Hartitudeh's Web Application
 
 Built using these technologies:
 
